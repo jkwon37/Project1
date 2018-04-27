@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Online Personal Training</title>
+    <link rel="stylesheet" type="text/css" href="main.css"/>
+  </head>
+  <body>
+    <div class="container">
+      <div class="parallax">
+        <header>
+          <div>
+            <img src="file:///Users/nomingerel/Documents/HTML5Application/Project1_html/images/CoachKwon.jpg" height="100" width="250" class="page-logo">
+          </div>
+          <nav>
+            <ul>
+              <li><a href="index.html">Home</a></li>
+              <li><a href="blog.html">Blog</a></li>
+              <li><a href="#">The Board</a></li>
+              <li><a href="aboutme.html">About Me</a></li>
+              <li><a href="#">Contact</a></li>
+            </ul>
+          </nav>
+        </header>
+          <div class="center">
+            <p>Recieve workout programs to give you the training without having an over-priced personal trainer!</p>
+            <h2><a href="registration.html">Sign up now!</a></h2>
+          </div>
+          <div class="home-info">
+            <p></p>
+          </div>
+        <footer>
+          <div class="social-media">
+            <ul>
+              <li>
+                <img src="file:///Users/nomingerel/Documents/HTML5Application/Project1_html/images/if_instagram-01-01_3066990.jpg" href="#" height="30" width="30">
+              </li>
+              <li>
+                <img src="file:///Users/nomingerel/Documents/HTML5Application/Project1_html/images/if_facebook-01-01_3066961.jpg" href="#" height="30" width="30">
+              </li>
+              <li>
+                <img src="file:///Users/nomingerel/Documents/HTML5Application/Project1_html/images/if_youtube-01-01_3066976.jpg"href="#" height="30" width="30">
+              </li>
+            </ul>
+          </div>
+        </footer>
+      </div>
+    </div>
+  </body>
+</html>
